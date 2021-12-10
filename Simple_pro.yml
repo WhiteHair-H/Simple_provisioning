@@ -8,7 +8,7 @@
     vpc_cidr_block: 10.210.0.0/16
     subnet_cidr_block: 10.210.1.0/24
     instance_image: ami-0b827f3319f7447c6
-    ec2_key_name: sirasoni
+    ec2_key_name: btc-opsnow-key
     instance_type: t3nano
 
   tasks:
